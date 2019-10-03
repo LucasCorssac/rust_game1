@@ -1,0 +1,4 @@
+(
+  title: "my_game",
+  dimensions: Some((500, 500)),
+)
